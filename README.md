@@ -1,4 +1,4 @@
-El presente repositorio contiene el código del segundo desafío llamado **Clases en ES6** del módulo **Programación avanzada en JavaScript** de la beca **Desarrollo de aplicaciones Full Stack Javascript Trainee V2.0**. Este desafío es **evaluado**.
+Repositorio con implementaciones de código del segundo desafío llamado "Clases en ES6", módulo 4 / Programación avanzada en JavaScript, de la beca "Desarrollo de aplicaciones Full Stack Javascript Trainee V2.0".
 
 Los requisitos del proyecto son los siguientes:
 
